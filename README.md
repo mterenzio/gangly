@@ -1,4 +1,4 @@
 gangly
 ======
 
-The Gangly News CMS
+The Gangly Structured Journalism Repository
